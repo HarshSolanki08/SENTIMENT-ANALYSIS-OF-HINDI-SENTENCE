@@ -54,7 +54,7 @@ Local Host server will start
 
 [Project Report](https://drive.google.com/file/d/1MJyrunFod00fsa8-JlhnZ0_hosHT1pGd/view?usp=share_link)
 
-[Source Code](https://drive.google.com/file/d/1MJyrunFod00fsa8-JlhnZ0_hosHT1pGd/view?usp=share_link)
+[Source Code](https://github.com/HarshSolanki08/SENTIMENT-ANALYSIS-OF-HINDI-SENTENCE)
 
 ## Authors & contributor
 
